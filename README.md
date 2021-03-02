@@ -1,4 +1,4 @@
-# AWSLambdaLayers-P37
+# AWSLambdaLayers-P37  (AWS Lambda Layers for Python)
 
 AWS Lambda Layers for Python 3.7 (lxml) and Python 3.5+ or 3.6+ for others (including scikit-learn and numpy)
 
